@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ney827
-- 🌱 I’m currently learning Operating Systems!
-- 📧 Contact: naeun.yu@student.csulb.edu
+- 📧 Contact: yunaeun827@gmail.com
 
 <!---
 ney827/ney827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
